@@ -96,7 +96,7 @@ label{
 	padding: 10px 0px;
 }
 .nome{
-	width: 96%;
+	width: 96%!important;
 }
 
 button{
